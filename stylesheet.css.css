@@ -188,6 +188,40 @@ background-color:rgba(34, 49, 52, 0.9);
 }
 
 
+/* Add CSS for logo */
+.logo{
+  width: 124px;
+margin-top: 20px;
+}
+/* Add CSS for <img> tags inside the <footer> */
+footer img{
+  width: 125px;
+}
+
+
+/* Add CSS for <p> tags inside the <footer> */
+footer p{
+  color: #b3aeb5;
+  font-size: 12px;
+}
+
+
+/* Add CSS for <footer> tags */
+footer{
+  padding-top: 30px;
+}
+.Txt{
+padding-right:120px;
+padding-left:30px;
+text-align:justify;
+font-size:20px;
+}
+
+.h1Txt{
+padding-right:120px;
+padding-left:30px;
+font-size:40px;
+}
 
 footer {
   background-color: #239b76;
